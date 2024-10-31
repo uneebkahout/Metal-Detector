@@ -1,0 +1,14 @@
+fr.skyost.ratemyapp.rate_my_app-jetified-window-1.0.0-beta04-0 C:\Users\LENOVO\.gradle\caches\transforms-3\032f4dff274e516110d9363a9793a3e3\transformed\jetified-window-1.0.0-beta04\res
+fr.skyost.ratemyapp.rate_my_app-jetified-window-java-1.0.0-beta04-1 C:\Users\LENOVO\.gradle\caches\transforms-3\142c24f2530665bb6deb4123ab140714\transformed\jetified-window-java-1.0.0-beta04\res
+fr.skyost.ratemyapp.rate_my_app-core-1.6.0-2 C:\Users\LENOVO\.gradle\caches\transforms-3\2579a7de00054bf46a8dbc332552f622\transformed\core-1.6.0\res
+fr.skyost.ratemyapp.rate_my_app-jetified-annotation-experimental-1.1.0-3 C:\Users\LENOVO\.gradle\caches\transforms-3\3f96ca76068ab400b494bc7d541ee256\transformed\jetified-annotation-experimental-1.1.0\res
+fr.skyost.ratemyapp.rate_my_app-jetified-play-services-basement-18.1.0-4 C:\Users\LENOVO\.gradle\caches\transforms-3\95e76454cff392b3dff66e1259c7e57f\transformed\jetified-play-services-basement-18.1.0\res
+fr.skyost.ratemyapp.rate_my_app-jetified-core-common-2.0.2-5 C:\Users\LENOVO\.gradle\caches\transforms-3\c96a6828078d32c272792465131125f6\transformed\jetified-core-common-2.0.2\res
+fr.skyost.ratemyapp.rate_my_app-main-6 C:\Users\LENOVO\AppData\Local\Pub\Cache\hosted\pub.dev\rate_my_app-2.0.0\android\src\main\res
+fr.skyost.ratemyapp.rate_my_app-release-7 C:\Users\LENOVO\AppData\Local\Pub\Cache\hosted\pub.dev\rate_my_app-2.0.0\android\src\release\res
+fr.skyost.ratemyapp.rate_my_app-pngs-8 D:\project\metaldetector\build\rate_my_app\generated\res\pngs\release
+fr.skyost.ratemyapp.rate_my_app-resValues-9 D:\project\metaldetector\build\rate_my_app\generated\res\resValues\release
+fr.skyost.ratemyapp.rate_my_app-rs-10 D:\project\metaldetector\build\rate_my_app\generated\res\rs\release
+fr.skyost.ratemyapp.rate_my_app-mergeReleaseResources-11 D:\project\metaldetector\build\rate_my_app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+fr.skyost.ratemyapp.rate_my_app-mergeReleaseResources-12 D:\project\metaldetector\build\rate_my_app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+fr.skyost.ratemyapp.rate_my_app-merged_res-13 D:\project\metaldetector\build\rate_my_app\intermediates\merged_res\release

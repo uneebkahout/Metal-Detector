@@ -1,0 +1,1 @@
+ D:\\project\\metaldetector\\.dart_tool\\flutter_build\\e17b1c0713772381c54724026aa183e6\\native_assets.yaml: 
